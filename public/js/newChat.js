@@ -26762,7 +26762,7 @@ __webpack_require__(/*! ./components/user/NewChat */ "./resources/js/components/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Applications/MAMP/htdocs/thammi2/resources/js/newChat.js */"./resources/js/newChat.js");
+module.exports = __webpack_require__(/*! /Applications/MAMP/htdocs/doan/resources/js/newChat.js */"./resources/js/newChat.js");
 
 
 /***/ })

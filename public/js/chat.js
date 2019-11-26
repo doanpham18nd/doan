@@ -72079,7 +72079,7 @@ function (_Component) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Applications/MAMP/htdocs/thammi2/resources/js/chat.js */"./resources/js/chat.js");
+module.exports = __webpack_require__(/*! /Applications/MAMP/htdocs/doan/resources/js/chat.js */"./resources/js/chat.js");
 
 
 /***/ })

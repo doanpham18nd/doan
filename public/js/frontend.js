@@ -95157,7 +95157,7 @@ function (_Component) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Applications/MAMP/htdocs/thammi2/resources/js/frontend.js */"./resources/js/frontend.js");
+module.exports = __webpack_require__(/*! /Applications/MAMP/htdocs/doan/resources/js/frontend.js */"./resources/js/frontend.js");
 
 
 /***/ })
